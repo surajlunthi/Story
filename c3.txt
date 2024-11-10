@@ -1,2 +1,2 @@
 this is changes done in story file c3 in develop by intellij
-today i am also using githu desktop
+today i am also using github desktop
