@@ -2,3 +2,4 @@ this is changes done in story  file c2 in develop by intellij
 doing some changes in c2 file from vs code
 changes in c2
 doing some random changes
+these are some new change in c2
