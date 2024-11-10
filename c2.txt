@@ -1,1 +1,2 @@
 this is changes done in story  file c2 in develop by intellij
+doing some changes in c2 file from vs code
