@@ -1,13 +1,3 @@
 this is changes done in story file c1 in develop by intellij
-changes in c1
-blah blah some changes
 hello i am doing some changes in c1 file in vs code
-hi
-this is some new change
-
-
-
-
-
-
-this is some change in c1
+changes in c1
